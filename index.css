@@ -1,0 +1,22 @@
+body {
+  padding-bottom: 50px;
+}
+form.row.g-3 {
+  width: 50%;
+  margin: 0 auto;
+}
+.email {
+  margin-top: 16px;
+}
+div.form-check {
+  display: inline-block;
+}
+.card {
+  margin: 0 auto;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  padding: 20px;
+}
+.nav {
+  margin: 0 auto;
+}
